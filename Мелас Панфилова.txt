@@ -119,7 +119,7 @@ public class Main {
         a = aah.nextInt();
         b = aah.nextInt();
         for (int i = 0; i<b; i++) {
-        c = a+a ;
+        c = c+a ;
         }
         System.out.println(c);
     }
